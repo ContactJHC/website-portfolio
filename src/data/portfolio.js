@@ -26,7 +26,7 @@ export default [
     {
         id: 'pf2',
         title: 'Fisheye',
-        imgUrl: '/assets/P6.JPG',
+        imgUrl: './P6.JPG',
         stack: [
             {
                 element: 'HTML',
@@ -50,7 +50,7 @@ export default [
     {
         id: 'pf3',
         title: 'Les Petits Plats',
-        imgUrl: '/assets/P7.JPG',
+        imgUrl: './P7.JPG',
         stack: [
             {
                 element: 'HTML',
